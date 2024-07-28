@@ -1,0 +1,33 @@
+C:\Users\halrr\source\repos\Enigma V3\Enigma V3\bin\Debug\Enigma V3.exe.config
+C:\Users\halrr\source\repos\Enigma V3\Enigma V3\bin\Debug\Enigma V3.exe
+C:\Users\halrr\source\repos\Enigma V3\Enigma V3\bin\Debug\Enigma V3.pdb
+C:\Users\halrr\source\repos\Enigma V3\Enigma V3\obj\Debug\Enigma V3.csproj.AssemblyReference.cache
+C:\Users\halrr\source\repos\Enigma V3\Enigma V3\obj\Debug\Enigma V3.csproj.SuggestedBindingRedirects.cache
+C:\Users\halrr\source\repos\Enigma V3\Enigma V3\obj\Debug\MainWindow.g.cs
+C:\Users\halrr\source\repos\Enigma V3\Enigma V3\obj\Debug\App.g.cs
+C:\Users\halrr\source\repos\Enigma V3\Enigma V3\obj\Debug\Enigma V3_MarkupCompile.cache
+C:\Users\halrr\source\repos\Enigma V3\Enigma V3\obj\Debug\Enigma V3_MarkupCompile.lref
+C:\Users\halrr\source\repos\Enigma V3\Enigma V3\obj\Debug\App.baml
+C:\Users\halrr\source\repos\Enigma V3\Enigma V3\obj\Debug\MainWindow.baml
+C:\Users\halrr\source\repos\Enigma V3\Enigma V3\obj\Debug\Enigma V3.g.resources
+C:\Users\halrr\source\repos\Enigma V3\Enigma V3\obj\Debug\Enigma_V3.Properties.Resources.resources
+C:\Users\halrr\source\repos\Enigma V3\Enigma V3\obj\Debug\Enigma V3.csproj.GenerateResource.cache
+C:\Users\halrr\source\repos\Enigma V3\Enigma V3\obj\Debug\Enigma V3.csproj.CoreCompileInputs.cache
+C:\Users\halrr\source\repos\Enigma V3\Enigma V3\obj\Debug\Enigma V3.exe
+C:\Users\halrr\source\repos\Enigma V3\Enigma V3\obj\Debug\Enigma V3.pdb
+C:\Users\halrr\source\repos\MP1\Enigma V3\Enigma V3\bin\Debug\Enigma V3.exe.config
+C:\Users\halrr\source\repos\MP1\Enigma V3\Enigma V3\bin\Debug\Enigma V3.exe
+C:\Users\halrr\source\repos\MP1\Enigma V3\Enigma V3\bin\Debug\Enigma V3.pdb
+C:\Users\halrr\source\repos\MP1\Enigma V3\Enigma V3\obj\Debug\Enigma V3.csproj.AssemblyReference.cache
+C:\Users\halrr\source\repos\MP1\Enigma V3\Enigma V3\obj\Debug\MainWindow.g.cs
+C:\Users\halrr\source\repos\MP1\Enigma V3\Enigma V3\obj\Debug\App.g.cs
+C:\Users\halrr\source\repos\MP1\Enigma V3\Enigma V3\obj\Debug\Enigma V3_MarkupCompile.cache
+C:\Users\halrr\source\repos\MP1\Enigma V3\Enigma V3\obj\Debug\Enigma V3_MarkupCompile.lref
+C:\Users\halrr\source\repos\MP1\Enigma V3\Enigma V3\obj\Debug\App.baml
+C:\Users\halrr\source\repos\MP1\Enigma V3\Enigma V3\obj\Debug\MainWindow.baml
+C:\Users\halrr\source\repos\MP1\Enigma V3\Enigma V3\obj\Debug\Enigma V3.g.resources
+C:\Users\halrr\source\repos\MP1\Enigma V3\Enigma V3\obj\Debug\Enigma_V3.Properties.Resources.resources
+C:\Users\halrr\source\repos\MP1\Enigma V3\Enigma V3\obj\Debug\Enigma V3.csproj.GenerateResource.cache
+C:\Users\halrr\source\repos\MP1\Enigma V3\Enigma V3\obj\Debug\Enigma V3.csproj.CoreCompileInputs.cache
+C:\Users\halrr\source\repos\MP1\Enigma V3\Enigma V3\obj\Debug\Enigma V3.exe
+C:\Users\halrr\source\repos\MP1\Enigma V3\Enigma V3\obj\Debug\Enigma V3.pdb
